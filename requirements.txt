@@ -1,9 +1,0 @@
-requirements.txt
-pandas
-numpy
-seaborn
-matplotlib
-statsmodels
-scikit-learn
-dash
-plotly
